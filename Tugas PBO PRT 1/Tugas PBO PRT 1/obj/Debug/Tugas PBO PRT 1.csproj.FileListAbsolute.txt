@@ -1,8 +1,0 @@
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\bin\Debug\Tugas PBO PRT 1.exe.config
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\bin\Debug\Tugas PBO PRT 1.exe
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\bin\Debug\Tugas PBO PRT 1.pdb
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\obj\Debug\Tugas PBO PRT 1.csproj.AssemblyReference.cache
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\obj\Debug\Tugas PBO PRT 1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\obj\Debug\Tugas PBO PRT 1.csproj.CoreCompileInputs.cache
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\obj\Debug\Tugas PBO PRT 1.exe
-C:\Users\Hana Syarifah\source\repos\Tugas PBO PRT 1\Tugas PBO PRT 1\obj\Debug\Tugas PBO PRT 1.pdb
