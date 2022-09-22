@@ -140,7 +140,6 @@ namespace Tugas_PBO_PRT_1
 
         Mobil mobil2 = new Avanza(ban2);
         ((Avanza)mobil2).NyalakanLampu();
-        Console.WriteLine(mobil1.ban.merk);
 
         Civic civic1 = new Civic(ban2);
         civic1.VtecKickedIn();
